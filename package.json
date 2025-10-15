@@ -1,0 +1,8 @@
+{
+  "name": "positive-news-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Dedalus placeholder server'"
+  }
+}
