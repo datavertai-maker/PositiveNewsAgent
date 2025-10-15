@@ -1,8 +1,11 @@
 {
   "name": "positive-news-agent",
   "version": "1.0.0",
+  "description": "Positive news agent placeholder server for Dedalus",
   "main": "index.js",
   "scripts": {
-    "start": "echo 'Dedalus placeholder server'"
-  }
+    "build": "echo 'Build successful'",
+    "start": "node index.js"
+  },
+  "license": "MIT"
 }
